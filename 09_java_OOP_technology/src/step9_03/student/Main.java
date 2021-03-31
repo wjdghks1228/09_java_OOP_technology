@@ -36,6 +36,8 @@ public class Main {
 				 *    이름과 번호를 변경할 수 있는 기능
 				 * 
 				 * */
+				
+				
 			}
 			else if (selectMenu == 3) {
 				/*
